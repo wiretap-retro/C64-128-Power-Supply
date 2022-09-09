@@ -1,0 +1,8 @@
+Digikey P/N
+‎TE2245-ND‎ --- Amgis L01-6341 (1 of these)
+1866-3042-ND‎ --- Meanwell IRM-20-5 (1 of these)
+F6790-ND‎ --- Littlefuse 0PTF0075P (1 of these)
+507-1261-ND‎ --- Bel Fuse 5MF 1-R (1 of these)
+
+Mouser P/N
+571-1-726386-2 --- TE Connectivity 1-726386-2 (6 of these)
